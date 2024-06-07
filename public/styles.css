@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+header a {
+    color: #fff;
+    margin-left: 1rem;
+    text-decoration: none;
+}
+
+main {
+    padding: 1rem;
+}
+
+article {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+}
+
+h2 {
+    margin: 0;
+}
+
+form {
+    margin-top: 1rem;
+}
+
+input, textarea {
+    display: block;
+    margin-bottom: 1rem;
+    width: 100%;
+    padding: 0.5rem;
+}
+
+button {
+    background-color: #333;
+    border: none;
+    color: #fff;
+    padding: 0.5rem 1rem;
+}
